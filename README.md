@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/kutake/count.svg)
+主页访问量:![Visitor Count](https://profile-counter.glitch.me/kutake/count.svg)
+常用语言占比:[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/kutake/github-readme-stats)
